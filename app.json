@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "xii-rpl-1-541211008-aditya-eka-santoso-loginresgister",
+    "slug": "snack-a00d7be1-8e0a-4f6c-a6f5-8a022e304515",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.adityaekasantoso.snacka00d7be18e0a4f6ca6f58a022e304515"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "13a468e4-6db4-42e1-9f3f-b9066aa89f9f"
+      }
+    }
+  }
+}
